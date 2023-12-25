@@ -15,6 +15,7 @@ app.use(logger());
 app.use( postsRouter);
 app.use("*", notFound)
 
+
 //Manejador de errores
 app.use((err, req, res, next) =>{
     return res.status(500).json({

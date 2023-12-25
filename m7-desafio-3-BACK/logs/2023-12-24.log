@@ -1,0 +1,70 @@
+
+Started GET / for :: ::1 at Sun Dec 24 2023 20:38:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET / for :: ::1 at Sun Dec 24 2023 20:39:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:41:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 285 ms Request ID: [fed6812d-d881-4955-8e37-ded8490d16d2]
+
+Started GET /favicon.ico for :: ::1 at Sun Dec 24 2023 20:41:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:42:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 70 ms Request ID: [00b46cec-13c1-4457-ad74-1d0927f7e688]
+
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:42:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 49 ms Request ID: [9bfcdb8f-92e9-4b90-863c-44dc1a467c34]
+
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:43:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [cd3b46b5-b246-4c9c-b483-8d41e1c8a299]
+
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:43:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [474b2284-202b-4d28-a358-d48cf45bd551]
+
+Started GET /posts for :: ::1 at Sun Dec 24 2023 20:43:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [9ef1c5fa-8573-4bfc-90f1-e3d80117978e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:43:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 67 ms Request ID: [fa6f2b71-301e-498d-8ca4-5c1307307c38]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:43:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 5 ms Request ID: [5ac5fc2e-9f78-4e33-a5a8-1e17597d544b]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:43:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 4 ms Request ID: [cca07a6c-0079-4b0f-96ce-3417a879f933]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:43:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 4 ms Request ID: [48d98fd0-9dea-49ce-8fec-0f311cf9e770]
+
+Started GET /hh for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:43:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:44:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 92 ms Request ID: [7d24d3ec-a169-44a8-9bbb-41f269fead26]
+
+Started GET /postsfff for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:44:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /postsfff for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:46:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /postsfff for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:50:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /postsfff for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:58:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:58:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 64 ms Request ID: [62903cfd-3c0c-4849-96b1-d619bfdb6646]
+
+Started GET /postsx for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:58:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Dec 24 2023 20:59:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","url":"https://img.freepik.com/vector-premium/croquis-dibujados-mano-bandera-colombia-icono-vector-estilo-dibujo_97886-8072.jpg?w=740","descripcion":"Bandera de colombia","likes":1}
+Completed: 200 message:  Time response: 59 ms Request ID: [5e9a51e2-48a1-46f5-9948-9f64b67b2209]

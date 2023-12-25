@@ -1,0 +1,31 @@
+Hola alba tengo esta preguntas:
+
+A-Con el manejador de errores, segun lo que entendi sería asi:
+
+    Crear una carpeta 
+        1-¿esta carpera iria al mismo nivel de db routes src?
+          ¿o iría dentro de alguna de ellas?
+    
+    middleware.js
+        1-Dentro de este archivo iria que tipo de importaciones deberia haber?
+        2- se escribe:
+             app.use((err, req, res, next) =>{
+                 return res.status(500).json({
+                    status: "error",
+                    message: err.message})
+            y despues se exporta?
+
+
+B- Base de datos likeme tabla post columnna id SERIAL PRIMARY KEY
+    1- Duarant me di cuenta que el id en la tabla siempre aumentaba en 1 incluso si no se agregaba exitosamente los datos a la tabla, antes de entregar el desafio borre toda la info de la tabla y despues con con ALTER SEQUENCE posts_id_seq RESTART WITH 1 el id volvio a comenzar con 1 y todo bien, pero ahora cuando por ejemplo no se agrega un post exitosamente postgress igual asume que se agrego y si el id que seguia era el 2 queda como "reservado" para ese mal intento de agregar algo a la tabla post, la pregunta es ¿esto se puede evitar?
+
+    2- ¿en los trabajos como es visto este tipo de problemas?¿ se deberia hacer algo? 
+
+Por ahora esas serian mis preguntas, saludos alba felices fiestas
+
+
+
+
+        
+
+

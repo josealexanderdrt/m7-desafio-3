@@ -1,0 +1,152 @@
+
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:06:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 136 ms Request ID: [5f5718cb-a88a-4d06-bd23-4eb207dfc3b9]
+
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:06:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [1c02677b-721a-4551-8c1c-2dc4442d8cd7]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:07:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 59 ms Request ID: [0cb33fd2-e01a-4edd-8b51-725d98d81b5c]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:07:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 3 ms Request ID: [95e7928f-626e-4de7-8286-2e4ad5833c9d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:07:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 3 ms Request ID: [7e208405-b8d0-4f34-873e-1a2c525bc593]
+
+Started GET /ggg for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:07:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:08:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 64 ms Request ID: [743446c1-8995-4876-b633-27babe3d7571]
+
+Started GET /dd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:08:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:08:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 57 ms Request ID: [561683ff-6601-4aa1-8fa6-c89dd3315f7a]
+
+Started GET /hhhh for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:13:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:25:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 173 ms Request ID: [f0300d3a-9ff4-4571-aff0-ccb3ce708cac]
+
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:26:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 5 ms Request ID: [262d88aa-e878-45a6-a844-044f2e8b698b]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:26:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 48 ms Request ID: [b3a6515c-e36e-4997-882f-52acfefee614]
+
+Started GET /dddd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:26:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 2 ms Request ID: [6d6988a6-0b2c-4d47-87e3-d72da2cc0862]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:26:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 56 ms Request ID: [e38eefa7-166a-4621-9bed-8af477302417]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:26:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 4 ms Request ID: [98ff85c0-8839-4b07-806a-c369c1dda107]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:27:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 45 ms Request ID: [1228eab9-15f0-42ae-9783-796775122a75]
+
+Started GET /postsxxx for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:27:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 4 ms Request ID: [b3a53bf8-e4f0-40cb-9ed8-17baa4943280]
+
+Started GET /postsxxx for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:27:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 5 ms Request ID: [a3c018f1-009e-459b-9492-8a66a21596a7]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:28:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 50 ms Request ID: [8e0a4ccf-d43c-4584-bb12-7c1a41873eb1]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:33:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 200 message:  Time response: 60 ms Request ID: [36f9de24-f374-48fd-aa5c-1f66ca48c243]
+
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:33:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 3 ms Request ID: [0a77729d-17e8-4b1f-8bc1-799dcfaf5a1f]
+
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:35:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:35:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 12 ms Request ID: [3f552424-1119-4aa3-a50a-b4a5f6f9b481]
+
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:36:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 7 ms Request ID: [2f04d7ab-b1b6-492a-913f-6d0810566e2a]
+
+Started GET /postsdd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:36:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 3 ms Request ID: [6eb259e7-3345-4540-b73d-6fc37211b73a]
+
+Started GET /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:36:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 2 ms Request ID: [27843948-aab0-4fc9-946f-7f63a4196961]
+
+Started GET /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:37:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 11 ms Request ID: [a9fb83cc-cead-4445-9c23-a290a2d70061]
+
+Started POST /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:37:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 2 ms Request ID: [f5f6e23c-42ff-4fb7-a36e-5df552a1ccc7]
+
+Started PATCH /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:37:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 4 ms Request ID: [27e1fb24-9db8-4131-80de-c6d899eadfe7]
+
+Started PATCH /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:37:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 11 ms Request ID: [3d668f68-8db1-4aec-91db-0d89814800c3]
+
+Started PATCH /DD for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:37:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 3 ms Request ID: [eacaaf56-1041-4829-a514-9e4959fb4f64]
+
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:38:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:38:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 64 ms Request ID: [a8aa6808-1ce0-43a3-b50a-caa314acf8f9]
+
+Completed: 304 message:  Time response: 2 ms Request ID: [4b989734-35af-4075-a18e-af81641a83d8]
+
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:38:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [88c1d770-00d5-4e5b-aa49-460522dead9b]
+
+Started GET /posts for :: ::1 at Thu Dec 28 2023 18:38:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [6b4cddd3-8366-4f31-81d8-7ff0e6f9aba5]
+
+Started DELETE /posts/1 for :: ::1 at Thu Dec 28 2023 18:38:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [cf83e4b3-4143-4af5-b63d-dceb9db6ae89]
+
+Started DELETE /posts/1 for :: ::1 at Thu Dec 28 2023 18:38:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [9f654f84-59ca-4188-93bc-4f1437b2928d]
+
+Started DELETE /posts/1 for :: ::1 at Thu Dec 28 2023 18:38:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [0fea0bfb-6c92-49cf-b098-b50ccbf42518]
+
+Started PATCH /DDdddd for :: ::ffff:127.0.0.1 at Thu Dec 28 2023 18:39:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Venezuela","url":"https://www.shutterstock.com/image-vector/map-venezuela-outline-silhouette-vector-260nw-2059460249.jpg","descripcion":"Forma Geografica/territorial de Venezuela"}
+Completed: 404 message:  Time response: 3 ms Request ID: [e82d0e56-3de7-4a6e-bc2f-f1338b4376d4]

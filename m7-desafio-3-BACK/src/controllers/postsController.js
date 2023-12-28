@@ -26,8 +26,13 @@ export const addPost = async (req, res,next) => {
 
 export const notFound = async (req, res) => {
 
-    res.status(404).json({ error: "This request is not possible" });
+  try {
+    res.status(404).json({ error: `This request is not possible Method: ${req.method}. Route:${req.url} ` })
+  } catch (error) {
+    console.log(error)
+  }
+/*     res.status(404).json({ error: "This request is not possible" });
     console.log("This request is not possible", error);
-    
+     */
 
 }

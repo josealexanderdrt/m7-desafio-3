@@ -12,8 +12,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cors());
 app.use(logger());
-app.use( postsRouter);
-app.use("*", notFound)
+app.use(postsRouter);
+app.all("*", notFound)
 
 
 //Manejador de errores

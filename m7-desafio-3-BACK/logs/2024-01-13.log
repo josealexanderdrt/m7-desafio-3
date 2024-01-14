@@ -1,0 +1,24 @@
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 125 ms Request ID: [d918664d-7ff7-4038-983f-35882e0f8a07]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [25fa578c-ce87-49d6-a735-f6ea7493268f]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [8686052b-480b-4b7a-9b35-611065096a92]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [ab0acc36-8cea-4f3e-8ad9-c1ee35f56f85]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [50efdf94-0656-414c-a742-a6250a10d335]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 19:06:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [7a1a4834-0b07-4707-a1d6-45edd0c80eda]

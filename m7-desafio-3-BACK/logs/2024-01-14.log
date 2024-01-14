@@ -1,0 +1,726 @@
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:48:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 138 ms Request ID: [d1c907c1-19b7-4359-971f-0761db4a05f1]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:48:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [fc748da5-e746-4f42-96c8-59deca52f159]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [ea01133f-5f52-4b9d-9f49-0097c36e012b]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:48:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 51 ms Request ID: [d0468f35-9580-44e9-adbf-bc949fc469e2]
+
+Started GET /post for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:49:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 9 ms Request ID: [1bf91afb-55f2-4b6f-ac7b-bdff2e3b9056]
+
+Started GET /post for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:49:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [2a1d7d02-7af9-4b89-948e-ff96ef47145a]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:49:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 52 ms Request ID: [7c9d84ed-96d3-4a7c-86f7-a0ea4876d8b1]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:50:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [99dfb3a2-f143-4042-aac4-b6e4955d6de2]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 21:50:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [294171a5-2939-48fb-80e0-f15ede97ed47]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:52:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 46 ms Request ID: [89cf49f7-2b38-4aea-9284-7208e5ec704f]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:52:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 42 ms Request ID: [53ad6db3-5f89-4f75-9294-7f8e1d5e3e7e]
+
+Started GET /posts/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 21:53:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 1 ms Request ID: [ea1b0cae-f893-4225-92d3-b7c5e1d44068]
+
+Started POST /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:01:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 8 ms Request ID: [a542d70f-ec7f-4468-a672-1c9279c54d1c]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:03:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [a9e75fe4-fe99-4e24-a3af-aefc8a01e588]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:03:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [704cc4f9-9aef-4ee7-b458-ea59fb6dbfb5]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:03:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [6592b233-d31c-4749-81b5-de615d7f3ec2]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:05:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 7 ms Request ID: [1463b815-d88d-4ba6-a2a2-2ad81a136035]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:05:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 7 ms Request ID: [2c0db94b-c7e0-4fca-b258-83c910d9b72f]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:07:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 92 ms Request ID: [fce08693-9ea1-46b4-a748-83d511fb2f44]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:07:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [bf5fdd16-5fe5-4809-823d-889433b01c2c]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:07:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 61 ms Request ID: [98198e7e-ac0f-47da-a9c0-790b2e4acf59]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:07:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [e0d45f19-2603-40cf-b456-aa5cf9793a01]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:12:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 70 ms Request ID: [30637a8f-0248-45b3-ba5b-125effb89ba9]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 79 ms Request ID: [6c256c50-caec-454d-8c32-946e210481ef]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [79b69ce3-e266-4e36-b2fc-b665e6cce8a7]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [c874e718-478f-47f4-92f9-6e4ca69b4f5e]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [2ba9e567-194c-4bf7-a56e-83a5a68a1fc3]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [3269103c-f5a1-45ee-b588-c34f3df0a983]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [343c893a-3e28-4aca-b68e-3d1e0168214c]
+
+Started PUT /posts/like/14 for :: ::1 at Sat Jan 13 2024 22:17:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [f51ea27b-7900-47b3-8a00-ebd5fc95e6a1]
+
+Started PUT /posts/like/14 for :: ::1 at Sat Jan 13 2024 22:17:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 30 ms Request ID: [dc0ecf9a-421b-4f4f-bd96-0b7ec8982070]
+
+Started PUT /posts/like/14 for :: ::1 at Sat Jan 13 2024 22:17:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [120e9f8e-1a25-4987-93e4-eb21040aeeeb]
+
+Started PUT /posts/like/14 for :: ::1 at Sat Jan 13 2024 22:17:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [3b95b03f-a961-4571-857f-4a1383d16e30]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 54 ms Request ID: [16d76943-51d8-4e0f-801a-7e6c5382c06e]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [62d1edbd-5e40-4c8f-8e00-de0f18b31a6c]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [b9170aa6-7fad-4931-9e32-73f85aa1b4ae]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [8ebdd10a-9bd3-4372-81e2-afc6cda5e981]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [d27e8335-b858-4b4a-93a1-e45994663888]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [9b1abed4-3cac-4e48-848f-89db136abaac]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [d8617ab5-7c6f-43bd-a51e-106bec276cf7]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:17:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [a803327b-cf49-401d-abb7-1d9d3ee71b92]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 57 ms Request ID: [5056b907-339c-4aec-8e19-56d384646da5]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:17:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [0a2e4643-d96b-4a8b-bf3f-c5caf8c387c4]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:18:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 3 ms Request ID: [b3ba5764-b2a9-4321-b5f5-bee60499b4a1]
+
+Started GET /posts/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:20:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [5a03a393-87e8-4415-8cc8-36728eacef3b]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:20:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 60 ms Request ID: [3fad390a-006d-403f-85a5-dd7f99d7dcea]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:24:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:26:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [16c9c1bf-cfe1-4120-9965-284b4d444604]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:27:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 7 ms Request ID: [b6ebeb06-8306-4023-b91f-75e39168747e]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:27:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [f67ab21d-8891-41b7-a21a-e031a822994e]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:27:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [407fe855-f09c-45f1-ad3c-46fff397ce3e]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:28:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [13e1931c-1e72-428f-972f-f0d1d02358c4]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:28:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [5bb748f4-f4b9-4aa4-9fa3-2324a5f79506]
+
+Started GET /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:28:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [94e949d9-5508-4785-bdd3-78abbb2e8d81]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:28:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 52 ms Request ID: [4d50e0f6-802f-47c6-9908-98eb77a6584a]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:28:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 404 message:  Time response: 2 ms Request ID: [f9b68b01-b4de-4ce7-a83e-648305f2f02f]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:29:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:29:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:30:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:32:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:32:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 6 ms Request ID: [2360421f-f3a3-419a-b2c6-5dd6a3304dd5]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:33:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:35:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:36:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 7 ms Request ID: [7075290a-7252-49e0-8497-b48ab4504f27]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 68 ms Request ID: [ef1d4801-2efb-4438-92f2-e3c3b917c210]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [bea7d504-478e-4bd0-b80a-b95f78c0b7ab]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:47:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:47:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 54 ms Request ID: [0aac656c-4305-4e61-bdb7-f3c80fdc974a]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [43983fd5-d835-42f8-b117-e1b1be2d0333]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:47:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 50 ms Request ID: [16ea5708-6ff8-4340-adab-c3aa728dc08b]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:47:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [da3c7c8f-f511-46f4-8a8b-70e28380a7b2]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:50:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 55 ms Request ID: [a5d7a0d1-e6e4-4838-8465-5fad19dfe769]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:50:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 3 ms Request ID: [744709d0-7687-4246-ab4c-3fd24c778cf2]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:50:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:50:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 63 ms Request ID: [55ff9008-bd28-42d1-a028-b45aeb9b0c9f]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:50:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [76e6a0d6-9a67-4712-8662-3768ee976280]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:50:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 2 ms Request ID: [4a0400b9-dc14-48d7-a4b8-bc28b124803d]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:51:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:52:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:52:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Completed: 500 message:  Time response: 61 ms Request ID: [907ec918-34e5-4e19-88be-cb319e7aea0d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:53:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 200 message:  Time response: 57 ms Request ID: [34c10a4a-c1b1-4e90-83c8-011857c921d1]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:53:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"posts":{"likes":4}}
+Completed: 500 message:  Time response: 7 ms Request ID: [afbcad93-6a65-4760-bcb6-6ba1c53fea70]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:55:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Completed: 500 message:  Time response: 43 ms Request ID: [723884a1-8a4c-45a0-b6a1-b1b325a1b545]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:55:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Completed: 500 message:  Time response: 4 ms Request ID: [1446c1a3-0364-412d-bac0-f87d1a58fe72]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:56:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Completed: 500 message:  Time response: 10 ms Request ID: [214b526e-ecd1-470c-9079-c39567c42be1]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:58:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 75 ms Request ID: [8efd7ef7-b6a6-4d59-b987-d2659403db00]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:58:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [57978b63-d2c4-4cc9-8ef2-e12e02ad8b1e]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 8 ms Request ID: [9e095397-d65e-4c16-9ec5-7aa186bb48c7]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [a123a2c2-99eb-4320-9a9e-7d0a193820ae]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [1c166c66-9ff5-4bc4-a0c8-cae6866434aa]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [86bb265a-1905-4edf-b366-9607c760053a]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [225f07d9-2142-4eea-a508-1781896e4e40]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [8eaf9f65-a368-4638-af06-10d14c07cc4e]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 22:58:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [607cbecf-ad52-4159-9a0b-eda30aa2e398]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:58:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 22:58:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [e7173f0a-5a1b-479c-a90f-667a71ed70a7]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [323d6549-2a5b-4dc6-84b6-d548d98ea4c5]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:59:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Completed: 500 message:  Time response: 12 ms Request ID: [51480963-86da-49c2-beac-921661495676]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:59:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Completed: 500 message:  Time response: 5 ms Request ID: [2062a133-2f09-4143-9e3c-28d85da2ad00]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 22:59:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:00:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":4}
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:03:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Completed: 500 message:  Time response: 57 ms Request ID: [23b567da-c6c1-4178-b577-623f87f32041]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:03:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":4}}
+Completed: 200 message:  Time response: 180 ms Request ID: [eac7bf91-316c-4d98-bcaf-2cad8ff43301]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:03:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [46bcffa3-9436-4aa9-866d-a7b50a7c422d]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:03:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [55625b4b-afce-4ee0-b140-580f566e97c0]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:03:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":1000}}
+Completed: 200 message:  Time response: 49 ms Request ID: [8923a98d-f997-4b82-bfa8-75317cd4cc9a]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [549baea3-d6cf-454a-ba21-da143df62546]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [88c4face-aa9d-4d1a-a4d8-3d165d059937]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:04:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"likes":1000}
+Completed: 500 message:  Time response: 6 ms Request ID: [3dd5a8e5-640f-4c91-b1ba-69046795922d]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 83 ms Request ID: [f16c7448-139c-4cdc-b845-d0dc9da99eb5]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [535490a2-ae37-46ff-a336-2549cf43a9d9]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 23:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 7 ms Request ID: [a328c0fe-711e-4ac0-bff3-47b232bb2631]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 23:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [420461cf-a3d8-4dfd-ba2a-a01b386ac536]
+
+Started PUT /posts/like/1 for :: ::1 at Sat Jan 13 2024 23:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [dc41afbb-52ba-4511-bf99-4b2211632df4]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [c41028fc-9f75-47bf-9bf2-6c08b08b7b55]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:04:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [5c9d98af-2c58-4300-9ead-7aade64759a1]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:05:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 68 ms Request ID: [8bdb8aab-8456-42dc-865f-b5fb259f98cd]
+
+Started PUT /posts/like/14 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:05:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Chilito"}}
+Completed: 200 message:  Time response: 47 ms Request ID: [4d29d4fc-e1c5-4c08-9f92-b0898b82f8d9]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:05:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [89b6531f-d5e0-4f86-9d14-48a98f775852]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:05:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [db48556b-a237-4fc7-9b0e-d9bea19127c3]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:05:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:05:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 59 ms Request ID: [9ad0fb56-d0ce-4b32-9612-4c2fbb3e2440]
+
+Completed: 304 message:  Time response: 4 ms Request ID: [fb3b7942-0010-4348-9235-d946949d10cd]
+
+Started POST /posts for :: ::1 at Sat Jan 13 2024 23:07:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"España","img":"https://us.123rf.com/450wm/elenvd/elenvd1712/elenvd171200107/92202793-mapa-de-fronteras-de-pa%C3%ADs-de-silueta-negra-de-espa%C3%B1a-sobre-fondo-blanco-de-ilustraci%C3%B3n-vectorial.jpg","descripcion":"Forma de España"}
+Completed: 400 message:  Time response: 3 ms Request ID: [8ff09ea7-223e-457a-a1f4-52181333bf7e]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:07:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 53 ms Request ID: [450fefb6-764c-4dff-8cab-556fb1ed1235]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:07:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [76606503-937c-439e-b7df-6e143db5a153]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:07:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [7fcd953c-ef28-49c1-8cbf-2fb74a656018]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:07:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [2b528224-36ef-4317-b198-1bffa40664b5]
+
+Started POST /posts for :: ::1 at Sat Jan 13 2024 23:08:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"España","img":"https://us.123rf.com/450wm/elenvd/elenvd1712/elenvd171200107/92202793-mapa-de-fronteras-de-pa%C3%ADs-de-silueta-negra-de-espa%C3%B1a-sobre-fondo-blanco-de-ilustraci%C3%B3n-vectorial.jpg","descripcion":"Forma de españa"}
+Completed: 400 message:  Time response: 2 ms Request ID: [6161839d-b5ff-489a-8ebb-5d319140da06]
+
+Started POST /posts for :: ::1 at Sat Jan 13 2024 23:12:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"España","img":"https://us.123rf.com/450wm/elenvd/elenvd1712/elenvd171200107/92202793-mapa-de-fronteras-de-pa%C3%ADs-de-silueta-negra-de-espa%C3%B1a-sobre-fondo-blanco-de-ilustraci%C3%B3n-vectorial.jpg","descripcion":"Forma de españa"}
+Completed: 201 message:  Time response: 61 ms Request ID: [ac897cbc-fdaf-430a-b731-607b30926003]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:12:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [b6d0175f-ff06-4af3-9d02-300271f00e35]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:12:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [c53ecf2c-3db7-4a75-9214-9c115cac3476]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:12:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:12:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [b0ca87a6-076f-47c7-bdda-9dc697ad7807]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [9e662fcc-4da3-4982-b4bc-635a86f93d67]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 50 ms Request ID: [4d31f78b-7929-43bb-ba95-218fa7481d3b]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [eaf1d3f4-729c-4b62-aa2c-b79043cf57f1]
+
+Started POST /posts for :: ::1 at Sat Jan 13 2024 23:14:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Egipto","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTC2hHMgiq41eP0lv9T0QVXE-D5XDDz_2zw&usqp=CAU","descripcion":"Forma de egipto"}
+Completed: 201 message:  Time response: 41 ms Request ID: [ca982312-2868-4f8e-9bd8-77d35e2b1c83]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [7946219b-248d-46b9-b7fb-25c517ab6102]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [8d9ce458-99bd-4e52-a497-ccd8b15e7a18]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [2c3acf23-2496-46c2-83b6-d3c656b91870]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:14:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [0ebb1532-a4b7-4103-bc7d-4435dc1a25e1]
+
+Started PUT /posts/like/17 for :: ::1 at Sat Jan 13 2024 23:15:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 7 ms Request ID: [d8d42c8c-10a2-4c1c-b9b4-8274883c2e08]
+
+Started PUT /posts/like/17 for :: ::1 at Sat Jan 13 2024 23:15:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [46096f13-ff8c-4268-a59f-5a466c308379]
+
+Started PUT /posts/like/17 for :: ::1 at Sat Jan 13 2024 23:15:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [091c1896-3c12-42e6-bd28-ff6325455866]
+
+Started PUT /posts/like/17 for :: ::1 at Sat Jan 13 2024 23:15:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [7ead3454-2145-40da-82ce-7ea94ed46a57]
+
+Started PUT /posts/like/17 for :: ::1 at Sat Jan 13 2024 23:15:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [f709de9c-4e4d-481f-8838-ac282a2bfdc0]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:15:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [95030e90-2973-4ead-b5a6-7003a895f7b2]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:15:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [a3bb777f-8b94-40fa-bc5d-3cc48b1d1662]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:15:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 40 ms Request ID: [15c61d70-2a29-4134-bf66-ec5e2de1ff5e]
+
+Started PUT /posts/like/18 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:15:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":2}}
+Completed: 200 message:  Time response: 46 ms Request ID: [fafe8105-677e-45b7-b095-f3a32cba17e0]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:15:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [98605823-46a2-406b-8c4e-b9b6b3b185dd]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:15:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [3843dd1b-793f-487a-93eb-159c19d637f1]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:40:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 108 ms Request ID: [bb16ae23-6c3c-47bb-841d-929293136600]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:40:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [73b02af5-da9f-40fb-b7a9-0e7fcaae4dc5]
+
+Started PUT /posts/like/18 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:40:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":3}}
+Completed: 200 message:  Time response: 99 ms Request ID: [c49b2666-67b9-4134-af10-b5bc36c55ef0]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:40:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 3 ms Request ID: [1cff45ab-05a5-46c6-8752-5941f40aae95]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:41:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 258 ms Request ID: [c037942d-0f48-4521-b6ec-536ae9a5376f]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:41:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 44 ms Request ID: [11420ae7-d2d8-4fc5-804b-c5a874e96191]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:41:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [d50241c9-32ef-4313-8db9-68785d8289ac]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 23:41:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [4ac17d5f-b032-46db-b18c-f1a462b18138]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:42:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"likes":3}}
+Completed: 200 message:  Time response: 102 ms Request ID: [6ad88d8b-3fcc-4ec7-a066-b0729a2d517c]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:42:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"cancion":3}}
+Completed: 200 message:  Time response: 95 ms Request ID: [6874edf9-6926-4173-95c4-53ffc703da75]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:52:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 62 ms Request ID: [d6e77716-97f3-4edd-bba8-899dd12eba3d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:52:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 3 ms Request ID: [48faf8f7-a9e2-44f6-940e-8803d18e77e5]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:52:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 3 ms Request ID: [9d537f35-90ee-4620-9b65-df1bbbe1caa5]
+
+Started DELETE /posts/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:53:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [9f787f8b-919a-4d8a-93d4-4682cc3fcbcb]
+
+Started DELETE /posts/1 for :: ::ffff:127.0.0.1 at Sat Jan 13 2024 23:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [1dfe4cb9-18fb-4035-9f27-b0fc01ed96ca]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:02:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 104 ms Request ID: [8ceb2583-ff81-4b4d-a0f2-7655dace8b53]
+
+Started DELETE /posts/18 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:02:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 48 ms Request ID: [660b3ec9-06eb-4294-a00c-ee6b7ae2a6af]
+
+Started DELETE /posts/18 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:03:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 116 ms Request ID: [2a9d74f1-339d-4f3c-b384-ed7b777cccde]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:04:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 94 ms Request ID: [baea295c-f641-424e-b6e9-aa6cfd20912c]
+
+Started DELETE /posts/17 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:04:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 94 ms Request ID: [07ea6b4c-f782-4b33-ad08-b8cd27b75c89]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:05:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 173 ms Request ID: [7cc5be5c-ff07-48ab-ae84-d80cb6e03349]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:06:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 55 ms Request ID: [d97418e3-e103-4d57-9857-9abefc4ae51b]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:06:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [b206fa22-6eaa-4fe6-b23b-5630eab652b1]
+
+Started POST /posts for :: ::1 at Sun Jan 14 2024 00:07:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Emiratos Arabes","img":"https://media.istockphoto.com/id/465128270/es/vector/negro-mapa-de-los-emiratos-%C3%A1rabes-unidos.jpg?s=170667a&w=0&k=20&c=y61IBTbRNGhCftd8KUuLNmgyGORSWEl1ApI5mBNW_1A=","descripcion":"Silueta"}
+Completed: 201 message:  Time response: 54 ms Request ID: [f6501124-47d7-4c28-8841-a0c78114e978]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [e406bac6-0f05-4293-9246-1bd0ebedaf33]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [495b2c43-ec48-4664-8156-2a0123033382]
+
+Started POST /posts for :: ::1 at Sun Jan 14 2024 00:07:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Emiratos Arabes","img":"https://media.istockphoto.com/id/465128270/es/vector/negro-mapa-de-los-emiratos-%C3%A1rabes-unidos.jpg?s=170667a&w=0&k=20&c=y61IBTbRNGhCftd8KUuLNmgyGORSWEl1ApI5mBNW_1A=","descripcion":"Dubai"}
+Completed: 201 message:  Time response: 51 ms Request ID: [7e1eb8b9-72b3-4a75-bbba-b9203a1daa8d]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 51 ms Request ID: [46f8cb70-5e54-4a42-90bb-d5cbcb507a48]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [ec27eed3-b7e0-4113-8c10-86a13bf0bf10]
+
+Started DELETE /posts/20 for :: ::1 at Sun Jan 14 2024 00:07:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [132f5cf0-9ba6-4cac-836f-8bc890ab3da5]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:07:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [d0ff6bf3-a3cc-474a-be9a-72d62fcadec6]
+
+Completed: 304 message:  Time response: 5 ms Request ID: [d6e36288-2df2-442b-953f-92b0d16fdc1e]
+
+Started POST /posts for :: ::1 at Sun Jan 14 2024 00:08:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"pruba a","img":"https://media.istockphoto.com/id/465128270/es/vector/negro-mapa-de-los-emiratos-%C3%A1rabes-unidos.jpg?s=170667a&w=0&k=20&c=y61IBTbRNGhCftd8KUuLNmgyGORSWEl1ApI5mBNW_1A=","descripcion":"m,dsjfjkdg"}
+Completed: 201 message:  Time response: 177 ms Request ID: [de61b852-81a9-4e5c-a65e-9d219794e495]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:08:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [35bd5f1c-7354-483a-930b-43fc5793ac81]
+
+Started GET /posts for :: ::1 at Sun Jan 14 2024 00:08:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [0d20df3c-86cf-4b8b-8a1a-082d0a45fc25]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:08:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"destino":"Sorocaima"}
+Completed: 200 message:  Time response: 42 ms Request ID: [d14c29b1-c6fc-4eb3-b3bc-084c7d7e9612]
+
+Started DELETE /posts/21 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 00:08:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 50 ms Request ID: [224a0198-78a5-44f9-b75b-f3d19e866bd2]

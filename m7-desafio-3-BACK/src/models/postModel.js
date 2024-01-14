@@ -16,12 +16,8 @@ export const createPost = async (titulo, img, descripcion) => {
     values: [titulo, img, descripcion, 0],
   };
 
-  try {
-    const response = await pool.query(SQLquery);
-    return response.rows[0];
-  } catch (error) {
-    console.log(error);
-  }
+  const response = await pool.query(SQLquery);
+  return response.rows[0];
 };
 
 export const editPost = async (titulo, img, descripcion, likes, id) => {
@@ -39,6 +35,5 @@ export const deletePost = async (id) => {
     values: [id],
   };
   const response = await pool.query(SQLquery);
-  console.log("La respuesta a la solicitud es ", response.rowCount);
   return response.rowCount;
 };

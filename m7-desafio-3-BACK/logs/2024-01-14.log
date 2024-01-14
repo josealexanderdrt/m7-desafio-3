@@ -1160,3 +1160,99 @@ Completed: 400 message:  Time response: 64 ms Request ID: [fb8642e1-b3d9-44da-ad
 Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:42:01 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"destino":"Sorocaima"}
 Completed: 200 message:  Time response: 59 ms Request ID: [239b23bf-8a8d-4365-8d49-e7e03f4707dd]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:44:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 145 ms Request ID: [a696e65c-1bb7-40d0-a773-c61e94eef891]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:44:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 12 ms Request ID: [356fcc84-3a80-400b-bbf7-9a2a637e88b9]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:44:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 2 ms Request ID: [0e982bff-9e4e-4197-96ec-9d95a139b7ce]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:45:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 2 ms Request ID: [fa4a5b9d-5820-478b-8b5b-ae8ac0a5c274]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:46:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 58 ms Request ID: [0fec109e-213f-4de4-9b95-e3bea16910ce]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:47:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 11 ms Request ID: [2fb41746-2efc-469f-b921-96337a3afc1a]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:47:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 4 ms Request ID: [c5c1e6da-ae19-4a8a-b111-b5074c6498db]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:51:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 10 ms Request ID: [73f270aa-2785-4d1c-b040-aaaef8b2dccd]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:52:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 24 ms Request ID: [944aea7a-2c73-4b73-81eb-1a25857c5a7a]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:53:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 26 ms Request ID: [3630a9fa-69ac-44d1-b538-dd06af4dd08d]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 18 ms Request ID: [d37ac13e-821f-430a-bdb8-e7d5a9970889]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:54:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 20 ms Request ID: [c8ad85ee-16bb-4e2b-bbde-491e4f49d6f3]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:55:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 15 ms Request ID: [a93911e9-dd44-4546-8eb8-50fd2d8e33ee]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 13:57:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"destino":"Sorocaima"}}
+Completed: 500 message:  Time response: 27 ms Request ID: [bde65a42-74c7-4fa5-9575-95f00c9146ed]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:05:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo"}}
+Completed: 200 message:  Time response: 88 ms Request ID: [961e28ec-8917-45e8-a9eb-f2b6134b153f]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:06:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"skjdhjskd":"Nuevo titulo"}}
+Completed: 500 message:  Time response: 12 ms Request ID: [f2cd8f2c-2161-4ae1-a432-d3bc6632c282]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:07:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"travel":{"skjdhjskd":"Nuevo titulo"}}
+Completed: 500 message:  Time response: 10 ms Request ID: [9ec4ff26-0852-48eb-b2be-c9675e9a05ee]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:09:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"posty":{"titulo":"Nuevo titulo 2"}}
+Completed: 500 message:  Time response: 8 ms Request ID: [e1df2c98-7f5e-4022-8808-ee497e566799]
+
+Started PUT /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:09:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 200 message:  Time response: 128 ms Request ID: [51e37e94-c311-4578-8ad3-b8019aa32a23]
+
+Started GET /posts/like/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:09:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [41e512f8-2961-4f38-8bbf-3917d3c3e733]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:09:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 200 message:  Time response: 75 ms Request ID: [13de4a80-46e8-4270-98fc-1cb9499b4c93]
+
+Started PUT /posts/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:09:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [a383aaff-ba16-4c61-9a14-5aea5aa3cf4e]
+
+Started PUT /posts/1 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:10:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 404 message:  Time response: 6 ms Request ID: [0bebca8c-dbd3-4d3b-b366-8fc31b1d8687]
+
+Started PUT /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:11:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 200 message:  Time response: 124 ms Request ID: [e9dc4e34-f732-45d2-b3f1-6ed7eb41db05]

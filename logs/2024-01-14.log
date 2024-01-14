@@ -1,0 +1,16 @@
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:24:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:25:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:28:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Completed: 500 message:  Time response: 16945 ms Request ID: [3634ca60-328b-4732-98d3-d700156bb4e8]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:29:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:30:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 12:32:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"Colombia","img":"https://us.123rf.com/450wm/pytyczech/pytyczech1808/pytyczech180800171/107464179-colombia-mapa-de-silueta-negra-s%C3%B3lida-del-%C3%A1rea-del-pa%C3%ADs-ilustraci%C3%B3n-de-vector-plano-simple.jpg"}
+Completed: 500 message:  Time response: 19268 ms Request ID: [839aea94-62f7-4dca-8bd9-fcbf8e3a6685]

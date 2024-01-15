@@ -1256,3 +1256,27 @@ Completed: 404 message:  Time response: 6 ms Request ID: [0bebca8c-dbd3-4d3b-b36
 Started PUT /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:11:02 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
 Completed: 200 message:  Time response: 124 ms Request ID: [e9dc4e34-f732-45d2-b3f1-6ed7eb41db05]
+
+Started PUT /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:20:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 200 message:  Time response: 152 ms Request ID: [787aff77-0532-4222-9bab-f9e8a37f02db]
+
+Started PUT /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:20:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 2"}}
+Completed: 200 message:  Time response: 57 ms Request ID: [5b88d228-6fcf-4119-b036-124966baeaf1]
+
+Started PUT /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:20:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 3"}}
+Completed: 200 message:  Time response: 61 ms Request ID: [71c52442-40a2-4fe6-8845-7d46dbc26d8b]
+
+Started GET /posts/like/13 for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:24:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 3"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [9c75a5f2-e5c1-495d-aeda-eea7c22f06af]
+
+Started GET /posts/like for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:24:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 3"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [dd2c7d7e-7565-41f2-adfe-19d6e8dd2cbf]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Jan 14 2024 14:25:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"post":{"titulo":"Nuevo titulo 3"}}
+Completed: 200 message:  Time response: 75 ms Request ID: [d2692dfe-d736-4f7b-9880-d3fa131e9543]

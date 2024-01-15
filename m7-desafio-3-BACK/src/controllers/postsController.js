@@ -44,6 +44,8 @@ export const addPost = async (req, res, next) => {
 export const updatePost = async (req, res) => {
   try {
     const { id } = req.params;
+
+    /*
     const { post } = req.body;
     if (Object.keys(post).length === undefined || Object.keys(post).length < 1) {
       throw new Error("No puedes actulizar un registro vacio");
@@ -64,24 +66,20 @@ export const updatePost = async (req, res) => {
           " , "
         )} `,
       });
-    }
+    }*/
     const post_update = await editPost(
-      post.titulo,
-      post.img,
-      post.descripcion,
-      post.likes,
       id
     );
     console.log("actulizado: ",post_update);
     res.status(200).json({ post: post_update });
   } catch (error) {
-/*     const errorFound = findError(error.code);
+    const errorFound = findError(error.code);
     if (errorFound.length > 0) {
       console.log("error");
       return res
         .status(errorFound[0].status)
         .json({ error: errorFound[0].message });
-    } */
+    } 
 console.log(error); 
     res.status(500).json({
       error: `Actulizar el registro no es posible:  ${error.message} `,

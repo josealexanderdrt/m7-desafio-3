@@ -20,10 +20,10 @@ export const createPost = async (titulo, img, descripcion) => {
   return response.rows[0];
 };
 
-export const editPost = async (titulo, img, descripcion, likes, id) => {
+export const editPost = async (id) => {
   const SQLquery = {
-    text: "UPDATE posts SET titulo = COALESCE ($1, titulo), img = COALESCE($2, img), descripcion = COALESCE($3, descripcion), likes = COALESCE($4, likes) WHERE id = $5 RETURNING *",
-    values: [titulo, img, descripcion, likes, id],
+    text: "UPDATE posts SET likes = likes+1  WHERE id = $1 RETURNING *",
+    values: [id],
   };
   const response = await pool.query(SQLquery);
   return response.rows[0];
